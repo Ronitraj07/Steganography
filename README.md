@@ -140,5 +140,3 @@ Want to improve this project? Feel free to **fork**, **star**, and submit a **pu
 This project is **MIT Licensed**. Use freely and responsibly.  
 
 ---
-
-This README follows the **modern structured format** you wanted. Let me know if you need any modifications! 🚀
