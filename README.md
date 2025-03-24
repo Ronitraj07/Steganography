@@ -114,10 +114,17 @@ curl -X POST -F "file=@image.png" -F "message=Hello" http://127.0.0.1:5000/encod
 ## **🌟 Screenshots**  
 
 ### **🔆 Light Mode**  
-![Light Mode UI]
+![Image](https://github.com/user-attachments/assets/c4604c0b-d6e6-49d5-989f-31cf2e968ed9)
+
+![Image](https://github.com/user-attachments/assets/929fa8f3-579a-4ce0-9944-03c557daa809)
+
+![Image](https://github.com/user-attachments/assets/02d7aabd-bb17-4320-b6bd-b52d9f462ce1)
+
 ### **🌙 Dark Mode**  
 ![Image](https://github.com/user-attachments/assets/fd958780-833a-427d-8432-091304ebbedd)
+
 ![Image](https://github.com/user-attachments/assets/41f9b2e0-deb5-4cc1-9805-e3e332f0ad78)
+
 ![Image](https://github.com/user-attachments/assets/3d130bda-2537-4ee5-acd8-1046689a483e)
 
 ---
