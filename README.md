@@ -116,7 +116,9 @@ curl -X POST -F "file=@image.png" -F "message=Hello" http://127.0.0.1:5000/encod
 ### **🔆 Light Mode**  
 ![Light Mode UI]
 ### **🌙 Dark Mode**  
-![Dark Mode UI](https://github.com/Ronitraj07/Steganography/issues/1#issue-2942176970)
+![Image](https://github.com/user-attachments/assets/fd958780-833a-427d-8432-091304ebbedd)
+![Image](https://github.com/user-attachments/assets/41f9b2e0-deb5-4cc1-9805-e3e332f0ad78)
+![Image](https://github.com/user-attachments/assets/3d130bda-2537-4ee5-acd8-1046689a483e)
 
 ---
 
